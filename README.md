@@ -21,9 +21,8 @@ Mark your solution approach!
 ## 🖼️ Demo
   
 > Example:
-> ![screenshot](<img width="878" alt="Screenshot 2025-06-27 at 2 06 09 PM" src="https://github.com/user-attachments/assets/43861b09-6bc3-415f-9246-f166b1992c15" />
+![screenshot](<img width="878" alt="ss" src="https://github.com/user-attachments/assets/17804500-d803-4f3a-ab40-72c5a4b7c327" />
 )
-
 
 ---
 

@@ -5,14 +5,13 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 A lightweight and user-friendly Chrome extension to assist with solving LeetCode problems efficiently.  
-Mark your solution approach and get AI-powered optimized solutions instantly!
+Mark your solution approach!
 
 ---
 
 ## 🚀 Features
 
 - ✅ **Mark Approach Type**: Brute Force / Optimal / Needs Optimization
-- 🤖 **Get Optimized Solutions**: Paste the LeetCode question and get a chatbot-generated solution
 - 📌 Fixed, minimal widget on the LeetCode page
 - 💾 Saves selected approach using browser storage
 - 🧩 Easy-to-use popup UI from the Chrome toolbar

@@ -21,7 +21,10 @@ Mark your solution approach!
 ## 🖼️ Demo
   
 > Example:
-> ![screenshot](screenshots/widget-demo.png)
+> ![screenshot](<img width="878" alt="Screenshot 2025-06-27 at 2 06 15 PM" src="https://github.com/user-attachments/assets/04a6d087-d9b7-4a19-b0b3-7c8e97a7553c" />
+)
+> <img width="878" alt="Screenshot 2025-06-27 at 2 06 09 PM" src="https://github.com/user-attachments/assets/c5de635e-53b2-4d15-b44f-f47dd46caeb4" />
+
 
 ---
 
